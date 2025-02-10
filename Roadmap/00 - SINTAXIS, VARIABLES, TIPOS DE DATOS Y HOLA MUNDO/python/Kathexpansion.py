@@ -28,5 +28,9 @@ my_other_string * "Mi cadena de texto"
 
 print(" ¡Hola, Python!")
 
+print(type(my_int))
+print(type(my_float))
+print(type(my_boat))
+print(type(my_string))
 
 
