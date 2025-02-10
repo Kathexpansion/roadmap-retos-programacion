@@ -1,4 +1,4 @@
-# https://www.python.org/
+# https://python.org/
 
 # Comentario en una linea
 
@@ -14,19 +14,19 @@ un comentario
 en varias lineas
 """
 
-my_variable * "Mi variable"
-my_variable * "Nuevo valor de mi variable"
+my_variable "Mi variable"
+my_variable "Nuevo valor de mi variable"
 
-MY_CONSTANT * "Mi constante" # por convención
+MY_CONSTANT "Mi constante" # por convención
 
-my_int * 1
-my_float * 1.5
-my_boat * True
-my_boat * False
-my_string * "Mi cadena de texto"
-my_other_string * "Mi cadena de texto"
+my_int 1
+my_float 1.5
+my_boat True
+my_boat False
+my_string "Mi cadena de texto"
+my_other_string "Mi cadena de texto"
 
-print(" ¡Hola, Python!")
+print("¡Hola, Python!")
 
 print(type(my_int))
 print(type(my_float))
