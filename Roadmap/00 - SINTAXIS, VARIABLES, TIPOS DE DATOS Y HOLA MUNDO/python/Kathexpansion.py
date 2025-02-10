@@ -1,4 +1,4 @@
-# https://wwwpython.org/
+# https://www.python.org/
 
 # Comentario en una linea
 
